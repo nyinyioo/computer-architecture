@@ -1,6 +1,9 @@
-### Computer Architecture
+# Computer Architecture
+
+## Overview
 
 Projects focused on understanding program execution, cache and memory performance, GPU parallelism, and hardware acceleration.
+
 
 | Project | Description |
 | --- | --- |
